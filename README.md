@@ -36,5 +36,6 @@ In pedestrian mode:
 6.	Traffic lights signals are going to the normal mode again.
 
 #Simulation
+
 https://user-images.githubusercontent.com/121635850/235367536-872c7b21-749a-4c30-a15a-d7c33c7a8945.mp4
 
